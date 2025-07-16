@@ -1,4 +1,4 @@
-# 2D Escape Game
+# 2D Escape Game EN/TR
 
 \<p align="center"\>
 \<img src="[https://img.shields.io/badge/Language-C-blue.svg](https://img.shields.io/badge/Language-C-blue.svg)" alt="C Language"\>
